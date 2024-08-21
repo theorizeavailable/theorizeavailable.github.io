@@ -1,16 +1,4 @@
----
-layout:        post
-title:         ''This is a test''
-author:        ''siameses''
-header-style:  text
-catalog:       true
-tags:
-     - Web
-     -remember
----
-
-
-## Plan of 24.8.22
+## Plans of 24.8.22
 ### pakege getting
 code:
 > this is a banch of code
