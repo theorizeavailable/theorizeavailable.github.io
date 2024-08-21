@@ -1,9 +1,9 @@
 ---
 layout:        post
 title:         ''This is a test''
-auther:        '' siameses''
+author:        '' siameses''
 header-style:  text
-catalog:       ture
+catalog:       true
 tags:
      - Web
      -remember
