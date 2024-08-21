@@ -1,7 +1,7 @@
 ---
 layout:        post
 title:         ''This is a test''
-author:        '' siameses''
+author:        ''siameses''
 header-style:  text
 catalog:       true
 tags:
