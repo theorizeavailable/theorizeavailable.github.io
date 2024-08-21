@@ -1,26 +1,30 @@
 ---
-layout:     post
-title:      ''This is a test''
-auther:     '' siameses''
-header-style:text
-catalog:      ture
+layout:        post
+title:         ''This is a test''
+auther:        '' siameses''
+header-style:  text
+catalog:       ture
 tags:
      - Web
      -remember
 ---
 
 
+## Plan of 24.8.22
+### pakege getting
+code:
+> this is a banch of code
 
-| ~~\rpe                | 1 | 2 | 3 | 4 | 5      | 6 | 7 | 8  | 9 | 10     | -1 | -2 | 11 | 12         | 冗余以保持鲁棒性 |
-|-----------------------|---|---|---|---|--------|---|---|----|---|--------|----|----|----|------------|---------|
-| EEG                   |   |   |   |   |        |   |   |    |   |        |    |    |    | 7*20个q ，每天 |         | 
-| 高微                    |   |   |   |   |        |   |   |    |   |        |    |    |    |            |         |
-| 新公司法 &公司管理            |   |   |   |   | 剩下新公司法 |   |   |    |   |        |    |    |    |            |         |
-| brainpy和深度学习  &&&&&&& |   |   |   |   |        |   |   |    |   |        |    |    |    |            |         |
-| 医疗器械相关  ********      |   |   |   |   |        |   |   |    |   |        |    |    |    |            |         |
-| 工程结构设计                |   |   |   |   |        |   |   |    |   |        |    |    |    |            |         |
-| 销售相关和合适的住址            |   |   |   |   |        |   |   |    |   |        |    |    |    |            |         |
-| 多想，不能踩的坑和已经踩过的坑       |   |   |   |   |        |   |   |    |   |        |    |    |    |            |         |
-| 减脂，理发，时间规划，购物         |   |   |   |   |        |   |   |    |   |        |    |    |    |            |         |
-| 自己的突破口，时间规划，效率迭代      |   |   |   |   |        |   |   | 爬虫 |   | 引入新计时法 |    |    |    |            |         |
-| 注意压力水平                
+'''
+from tkinter.font import names
+
+
+class Public:
+    name='ddd'
+    age='12'
+    def hhhhhh(self,a,b):
+        self.name=names
+        self.age=age
+
+print(Public.name)
+'''
